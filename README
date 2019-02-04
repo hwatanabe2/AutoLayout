@@ -1,0 +1,5 @@
+Auto Layout
+
+This applicatino is exercise application which created by following https://www.youtube.com/watch?v=9RydRg0ZKaI&index=1&list=PL0dzCUj1L5JHdeOlzJtp5zlsdrliJTC7F.
+
+Main focus of this application is to create a swipe collection view using UICollectionViewController and UICollectionViewDelegateFlowLayout, using auto layout functions.
